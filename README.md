@@ -1,4 +1,6 @@
 ## Hi there 👋
+IT Professional with an interest in CyberSecurity and Ethical Hacking
+I have experience in Apple Hardware repairs and MDM
 - 🌱 I’m currently learning Python and C#
 
 <!--
